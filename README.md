@@ -5,8 +5,9 @@ Caso queira acessar toda a lista de talentos disponíveis, bastar buscar sem esc
 Estou aberto para contribuições!
 O objetivo final do projeto é uma ferramenta de busca completa e fácil de usar para agilizar montagem de personagens.
 
-Observação: Está em inglês, pois as regras oficiais estão em inglês com fácil acesso em: [d20pfsrd.com](https://www.d20pfsrd.com/)
-
+Observações: 
+- Está em inglês, pois as regras oficiais estão em inglês com fácil acesso em: [d20pfsrd.com](https://www.d20pfsrd.com/)
+- Ainda não está otimizado para celulares e aparelhos móveis
 As tecnologias envolvidas nesse projeto foram:
 HTML
 CSS
