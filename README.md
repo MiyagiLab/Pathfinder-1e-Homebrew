@@ -11,3 +11,5 @@ As tecnologias envolvidas nesse projeto foram:
 HTML
 CSS
 javascript
+
+Link da vercel: https://pathfinder-1e-homebrew.vercel.app/
