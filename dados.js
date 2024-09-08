@@ -90,6 +90,14 @@ let dados = [ // Base de dados. As partes titulo, descricao, requisite, benefit 
         tags: ""
       },
       {
+        titulo: "Advanced Two-Weapon Fighting (Combat)",
+        requisite:"",
+        descricao: "Homebrew feat. Substitute Improved and Greater Two-Weapon Fighting with one talent. Gives iterative attacks for every attack based on bab",
+        benefit:"You can make one extra attack each round with the secondary weapon for each attack you make in a full-attack action based on bab with the same bonus each. All attacks receive a -4 penalty, or -2 if off-hand is a light weapon",
+        link: '#',
+        house:"",
+        tags: ""
+      {
         titulo: "Powerful Strikes (Combat) ",
         requisite:"",
         descricao: "Homebrew feat. Compacted Improved Sunder, Overrun and Bull Rush into one feat.",
