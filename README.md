@@ -11,7 +11,7 @@ Observações:
 - Está em inglês, pois as regras oficiais estão em inglês com fácil acesso em: [d20pfsrd.com](https://www.d20pfsrd.com/)
 - Ainda não está otimizado para celulares e aparelhos móveis.
 
-## As tecnologias envolvidas nesse projeto foram:
+### As tecnologias envolvidas nesse projeto foram:
 - HTML
 - CSS
 - javascript
