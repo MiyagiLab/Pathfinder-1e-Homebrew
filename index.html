@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pathfinder 1e House Rules</title>
+    <!-- importação de fontes -->
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Wittgenstein:ital,wght@0,400..900;1,400..900&display=swap"
+        rel="stylesheet">
+    <!-- classe para mudança no estilo do texto no html -->
+    <style>
+        .text-style {
+            color: #000000;
+            font-size: 24px;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- título -->
+    <header>
+        <h1>Pathfinder 1e feats and House Rules</h1>
+    </header>
+    <main>
+        <!-- área de pesquisa e botão -->
+        <section>
+            <input type="text" placeholder="Talento" id="campo-pesquisa">
+            <button onclick="pesquisar()">Buscar</button>
+        </section>
+        <!-- Corpo da página que contém as informações básica, não é alterado pela busca -->
+        <p class="text-style">This page is a search engine for pathfinder 1e feats and my group homebrews for easy
+            reference.</p>
+        <p class="text-style">Database still in development.</p>
+        <p> <a href="https://www.d20pfsrd.com/" target="_blank">Source: d20pfsrd.</a>
+        </p>
+    </main>
+    <!-- placeholder antes de ocorrer uma busca -->
+    <div class="resultados-pesquisa" id="resultados-pesquisa">
+        <p class="text-style"> Search for the desired feat or keywords.</p>
+    </div>
+    <!-- rodapé com informação legal e contato -->
+    <footer>
+        <p>Non-profit project under the Open Game License. All rights reserved. Contact: dede.ricardo@gmail.com</p>
+    </footer>
+    <!-- scripts -->
+    <script src="dados.js"></script>
+    <script src="app.js"></script>
+
+</body>
+
+</html>

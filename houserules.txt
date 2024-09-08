@@ -1,0 +1,177 @@
+This is a collection for our rule changes for documentation purposes, there's no code here.
+
+Mechanics that should be baseline instead of feats
+
+Power attack, Combat Expertise, Piranha Strike, Deadly Aim, Martial Power
+All those feats of the “trade BAB/4 for bonus” are basic mechanics without requisites.
+All the damage ones are “Trade for twice as much damage. Thrice for 2h weapons.”
+
+The defensive ones are “Trade for as much untyped AC, doubled when using a single Light or 1h weapon” and “Trade for twice as many temporary hit points. Thrice if using a shield.”
+
+Feats that require them require nothing instead.
+
+Improved Unarmed Strike
+Baseline for everyone with at least 1 BAB. Feats that require it require BAB 1+.
+Weapon Finesse
+Baseline. Feats that require it require nothing instead.
+Two-Weapon Fighting
+Baseline. The entire chain of feats to unlock Two-Weapon Fighting is gone as well.
+
+Feats that should be compacted or scale better
+Improved [Combat Maneuver]
+Should provide more than one maneuver.
+Bull Rush, Overrun, Sunder
+Powerful Strikes: Can perform Bull Rush, Overrun and Sunder maneuvers without provoking Attacks of Opportunity, and at a +2 bonus.
+Dirty Trick, Steal, Feint
+Clever Misdirections: Can perform Dirty Trick and Steal combat maneuvers without provoking Attacks of Opportunity, and at a +2 bonus.  Feints can be performed as a move action.
+Reposition, Drag, Grapple
+Unreleting Attacks: Can perform Reposition, Drag and Grapple combat maneuvers without provoking Attacks of Opportunity, and at a +2 bonus.
+Disarm, Trip
+Deft Maneuvers: Can perform Disarm and Trip combat maneuvers without provoking Attacks of Opportunity, and at a +2 bonus.
+
+Improved Two-Weapon Fighting
+Two-Weapon Fighting now allows for iterative attacks with the off-hand weapon, as permitted by your BAB.
+
+Weapon Focus
+Applies to an entire weapon group. Bonus is 1 + 1 per 6 character levels.
+Weapon Specialization
+Applies to an entire weapon group. Bonus is 2 + 1 per 3 character levels.
+Spell Focus, Greater Spell Focus and Spell Specialization
+A single feat: Spell Focus. +1 DC to a chosen school and choose one spell within that school to gain +2 CL. Bonus increases to +2 DC and +4 CL at Character Level 8. 
+Spell Penetration and Greater Spell Penetration
+A single feat. +2 CL to overcome Spell Resistance, increases to +4 CL at Character Level 8.
+
+Armor Focus
+Choose a category, Light, Medium or Heavy. The chosen armor category provides +1 AC, +1 to Maximum Dexterity allowed and its penalties to skill checks is reduced by 1.
+
+Precise Shot, Improved Precise Shot
+Merged. All effects come from purchasing Precise Shot
+Feats and mechanics that don’t need to exist
+Point Blank Shot
+Gone. Nothing occupies this niche. Anything that required it requires nothing instead.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Feat descriptions>
+
+Martial Power (Combat)
+Prerequisite(s): Constitution 13, knowledge of at least one maneuver or stance.
+You are able to instinctively call upon reserves of untapped power within yourself to defend yourself.
+Benefit(s): You can choose to take a -1 penalty on attack rolls and combat maneuver checks to gain 2 temporary hit points. This bonus is increased by half (50%) when you are using a shield of any kind. When your base attack bonus reaches +3 and every +2 thereafter, the penalty increases by -1 and the temporary hit point bonus increases by 2. You can only choose to use this feat when you declare that you are making an attack or a full-attack action with a melee weapon, or when you are initiating a maneuver. The penalty to attack rolls and temporary hit points gained from use of this feat last until the start of your next turn.
+House Rule: Baseline for everyone, requires nothing. Feats that require it require nothing instead.
+
+
+Combat Expertise (Combat)
+Prerequisite: Int 13.
+You can increase your defense at the expense of your accuracy.
+Benefit: You can choose to take a –1 penalty on melee attack rolls and combat maneuver checks to gain a +1 dodge bonus to your Armor Class. When your base attack bonus reaches +4, and every +4 thereafter, the penalty increases by –1 and the dodge bonus increases by +1. You can only choose to use this feat when you declare that you are making an attack or a full-attack action with a melee weapon. The effects of this feat last until your next turn.
+House Rule: Baseline for everyone, requires nothing. Feats that require it require nothing instead.
+
+
+Deadly Aim (Combat)
+Prerequisites: Dex 13, base attack bonus +1.
+You can make exceptionally deadly ranged attacks by pinpointing a foe’s weak spot, at the expense of making the attack less likely to succeed.
+Benefit: You can choose to take a –1 penalty on all ranged attack rolls to gain a +2 bonus on all ranged damage rolls. When your base attack bonus reaches +4, and every +4 thereafter, the penalty increases by –1 and the bonus to damage increases by +2. You must choose to use this feat before making an attack roll and its effects last until your next turn. The bonus damage does not apply to touch attacks or effects that do not deal hit point damage.
+House Rule: Baseline for everyone, requires nothing. Feats that require it require nothing instead.
+
+
+Piranha Strike (Combat)
+Prerequisites: Weapon Finesse, base attack bonus +1.
+You make a combination of quick strikes, sacrificing accuracy for multiple, minor wounds that prove exceptionally deadly.
+Benefit: When wielding a light weapon, you can choose to take a -1 penalty on all melee attack rolls and combat maneuver checks to gain a +2 bonus on all melee damage rolls. This bonus to damage is halved (-50%) if you are making an attack with an off-hand weapon or secondary natural weapon. When your base attack bonus reaches +4, and for every 4 points thereafter, the penalty increases by -1 and the bonus on damage rolls increases by +2. You must choose to use this feat before the attack roll, and its effects last until your next turn. The bonus damage does not apply to touch attacks or effects that do not deal hit point damage. This feat cannot be used in conjunction with the Power Attack feat.
+House Rule: Baseline for everyone, requires nothing. Feats that require it require nothing instead.
+
+
+Improved Unarmed Strike (Combat)
+You are skilled at fighting while unarmed.
+Benefit: You are considered to be armed even when unarmed—you do not provoke attacks of opportunity when you attack foes while unarmed. Your unarmed strikes can deal lethal or nonlethal damage, at your choice.
+Normal: Without this feat, you are considered unarmed when attacking with an unarmed strike, and you can deal only nonlethal damage with such an attack.
+House Rule: Baseline for everyone with at least 1 BAB. Feats that require it require BAB 1+.
+
+
+Weapon Finesse (Combat)
+You are trained in using your agility in melee combat, as opposed to brute strength.
+Benefit: With a light weapon, elven curve blade, rapier, whip, or spiked chain made for a creature of your size category, you may use your Dexterity modifier instead of your Strength modifier on attack rolls. If you carry a shield, its armor check penalty applies to your attack rolls.
+Special: Natural weapons are considered light weapons.
+House Rule: Baseline, you choose. Feats that require it require nothing instead.
+
+
+Two-Weapon Fighting (Combat)
+You can fight with a weapon wielded in each of your hands. You can make one extra attack each round with the secondary weapon.
+Prerequisite: Dex 15.
+Benefit: Your penalties on attack rolls for fighting with two weapons are reduced. The penalty for your primary hand lessens by 2 and the one for your off hand lessens by 6. See Two-Weapon Fighting.
+Normal: If you wield a second weapon in your off hand, you can get one extra attack per round with that weapon. When fighting in this way you suffer a –6 penalty with your regular attack or attacks with your primary hand and a –10 penalty to the attack with your off hand. If your off-hand weapon is light, the penalties are reduced by 2 each. An unarmed strike is always considered light.
+House Rule: Baseline. The entire chain of feats of Two-Weapon Fighting (improved, greater...) is gone as well.
+
+Improved Bullrush (Combat)
+Prerequisite: Str 13, Power Attack, base attack bonus +1.
+Benefit: You do not provoke an attack of opportunity when performing a bull rush combat maneuver. In addition, you receive a +2 bonus on checks made to bull rush a foe. You also receive a +2 bonus to your Combat Maneuver Defense whenever an opponent tries to bull rush you. Normal: You provoke an attack of opportunity when performing a bull rush combat maneuver.
+House Rule: Compacted into Powerful Strikes.
+
+
+Improved Overrun (Combat)
+You are skilled at running down your foes.
+Prerequisite: Str 13, Power Attack, base attack bonus +1.
+Benefit: You do not provoke an attack of opportunity when performing an overrun combat maneuver. In addition, you receive a +2 bonus on checks made to overrun a foe. You also receive a +2 bonus to your Combat Maneuver Defense whenever an opponent tries to overrun you. Targets of your overrun attempt may not chose to avoid you. Normal: You provoke an attack of opportunity when performing an overrun combat maneuver.
+House Rule: Compacted into Powerful Strikes.
+
+
+Improved Sunder (Combat)
+You are skilled at damaging your foes’ weapons and armor.
+Prerequisite: Str 13, Power Attack, base attack bonus +1.
+Benefit: You do not provoke an attack of opportunity when performing a sunder combat maneuver. In addition, you receive a +2 bonus on checks made to sunder an item. You also receive a +2 bonus to your Combat Maneuver Defense whenever an opponent tries to sunder your gear. Normal: You provoke an attack of opportunity when performing a sunder combat maneuver.
+House Rule: Compacted into Powerful Strikes.
+
+
+Powerful Strikes (Combat) 
+House Rule feat. Compacted Improved Sunder, Overrun and Bullrush into one feat.
+Benefit: Can perform Bull Rush, Overrun and Sunder maneuvers without provoking Attacks of Opportunity. Receive +2 bonus to CMB and CMD related to Bull Rush, Overrun and Sunder.
+
+
+Clever Misdirections (Combat)
+House Rule feat. Compacted Improved Dirty Trick, Feint and Steal into one feat.
+Benefit: Can perform Dirty Trick and Steal combat maneuvers without provoking Attacks of Opportunity, and at a +2 bonus to CMB and CMD. Feints can be performed as a move action.
+
+Unreleting Attacks (Combat)
+House Rule feat. Compacted Improved Reposition, Drag and Grapple feats into one.
+Benefit: Can perform Reposition, Drag and Grapple combat maneuvers without provoking Attacks of Opportunity, and at a +2 bonus to CMB and CMD.
+
+Deft Maneuvers (Combat)
+House Rule Feat.
+Benefit: Can perform Disarm and Trip combat maneuvers without provoking Attacks of Opportunity, and at a +2 bonus to CMB and CMD.
+
+Weapon Specialization (Combat)
+You are skilled at dealing damage with one weapon. Choose one type of weapon (including unarmed strike or grapple) for which you have already selected the Weapon Focus feat. You deal extra damage when using this weapon.
+Prerequisites: Proficiency with selected weapon, Weapon Focus with selected weapon, fighter level 4th.
+Benefit: You gain a +2 bonus on all damage rolls you make using the selected weapon.
+Special: You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a new type of weapon.
+House Rule: Applies to an entire weapon group. Bonus is 2 + 1 per 3 character levels.
+
+Spell Penetration
+Your spells break through spell resistance more easily than most.
+Benefit: You get a +2 bonus on caster level checks (1d20 + caster level) made to overcome a creature’s spell resistance.
+House Rule: It inherited Greater Spell Penetration and works as requisite in its place. +2 CL to overcome Spell Resistance, increases to +4 CL at Character Level 8.
+
+Armor Focus (Combat)
+Your familiarity with a specific type of armor increases the amount of protection you receive from it.
+Prerequisite(s): Base attack bonus +1, proficiency with selected armor.
+Benefit(s): Select one type of armor, such as chain shirt or splint mail. The AC bonus granted by the selected armor increases by 1.
+Special: You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a new type of armor. The Armor Focus feat counts as the armor training class feature for the purpose of armor mastery feat prerequisites and determines what types of armor you can use with armor mastery feats.
+House Rule: Choose a category, Light, Medium or Heavy. The chosen armor category provides +1 AC, +1 to Maximum Dexterity allowed and its penalties to skill checks is reduced by 1.
+
+Precise Shot (Combat)
+You are adept at firing ranged attacks into melee.
+Prerequisite: Point-Blank Shot.
+Benefit: You can shoot or throw ranged weapons at an opponent engaged in melee without taking the standard –4 penalty on your attack roll. Note: Two characters are engaged in melee if they are enemies of each other and either threatens the other.
+House Rule: Precise Shot and Improved Precise Shot are merged. All effects come from purchasing Precise Shot.
+
+Improved Precise Shot (Combat)
+You are adept at firing ranged attacks into melee.
+Prerequisite: Point-Blank Shot.
+Benefit: You can shoot or throw ranged weapons at an opponent engaged in melee without taking the standard –4 penalty on your attack roll. Note: Two characters are engaged in melee if they are enemies of each other and either threatens the other.
+House Rule: Precise Shot and Improved Precise Shot are merged. All effects come from purchasing Precise Shot.
+
+Point-Blank Shot (Combat)
+You are especially accurate when making ranged attacks against close targets.
+Benefit: You get a +1 bonus on attack and damage rolls with ranged weapons at ranges of up to 30 feet.
+House Rule: Gone. Nothing occupies this niche. Anything that required it requires nothing instead.
