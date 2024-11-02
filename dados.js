@@ -97,6 +97,7 @@ let dados = [ // Base de dados. As partes titulo, descricao, requisite, benefit 
         link: '#',
         house:"",
         tags: ""
+      },
       {
         titulo: "Powerful Strikes (Combat) ",
         requisite:"",
